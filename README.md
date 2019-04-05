@@ -2,7 +2,7 @@
 ## Setup
 __AMI:__ Deep Learning AMI (Ubuntu) Version 22.0 - ami-060865e8b5914b4c4 (search "deep learning")
 
-__Instance Type:__ p2.xlarge
+__Instance Type:__ p2.xlarge (specify 1000GiB of storage)
 
 ### SSH Connection:
 In order to connect the AWS instance your local computer use the following ssh command:
